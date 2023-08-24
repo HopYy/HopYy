@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @HopYy
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning java script
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-HopYy/HopYy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I'm Stipe Bošnjak.
+👀 I'm passionate about web development.
+🌱 Currently, I'm immersed in learning JavaScript and expanding my skills.
